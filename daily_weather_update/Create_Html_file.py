@@ -24,8 +24,7 @@ def create_html_report(data_dict, icon_url, html_file):
         
         #write the data into a table, using the dictionary where each key represents the type and the value represents the data point
         for key, value in data_dict.items():
-            html_output.write( '<tr><td><b><span style="color:black">{:s}</b></td><td align="left"> \
-                <span style="color:blue"><b>{:s}</b></td></tr>\n'.format(key, value))
+            html_output.write( '<tr><td><b><span style="color:black">{:s}</b></td><td align="left"><span style="color:blue"><b>{:s}</b></td></tr>\n'.format(key, value))
         
         html_output.write( '</table></html>\n' )
 
