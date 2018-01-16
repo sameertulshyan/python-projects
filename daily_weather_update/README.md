@@ -3,7 +3,7 @@ a list of recipients.
 
 Requirements:  
 Gmail account  
-Python 2 or higher  
+Python 2.7 or higher  
 Schedule package for Python ($ pip install schedule)
 
 Usage:  
