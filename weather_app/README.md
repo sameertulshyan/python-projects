@@ -1,7 +1,7 @@
 The Weather App allows you to view the latest weather data for any city in the United States from weather.gov  
 
 Requirements:  
-Python 2 or higher
+Python 2.7 or higher
 
 Usage:  
 Run the NOAA_weather_app module   
