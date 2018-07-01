@@ -11,13 +11,13 @@ Run the NOAA_weather_app module:
 
 ## Usage  
 Enter the four-character station code of the city you want to view the data for (e.g. KNYC for Central Park, NYC) 
-![Weather App 1](https://sameertulshyan.github.io/weather_app_1_1x.png) 
+![Weather App 1](https://sameertulshyan.github.io/weather_app_1_2x.png) 
 
 Press the "Get Weather" button  
 
 If you want to find a station code, you can search for a list of station codes by State on the second tab
 
-![Weather App 2](https://sameertulshyan.github.io/weather_app_2_1x.png)
+![Weather App 2](https://sameertulshyan.github.io/weather_app_2_2x.png)
 
 ## License
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
