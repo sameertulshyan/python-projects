@@ -10,7 +10,7 @@ This project allows the user to obtain a subset of NYC government job listings t
 Python 2.7 or greater
 
 ## Usage
-Clone the entire repository to your desktop/server. Ensure both the data file and both python scripts are in the same folder.
+Clone the entire repository to your desktop/server. Ensure the data file and both python scripts are in the same folder.
 
 1. Run the 'NYC_data_scrubbing.py' script.
 2. Follow the instructions in the script and choose your job search criteria accordingly.
