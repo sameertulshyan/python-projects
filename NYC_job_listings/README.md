@@ -1,7 +1,7 @@
 # NYC Job Listings
 
 ## Data Source
-The data for this project was taken from NYC Open Data.
+The data for this project was taken from [NYC Open Data.](https://data.cityofnewyork.us/City-Government/NYC-Jobs/kpav-sd4t/data)
 
 ## Description
 This project allows the user to obtain a subset of NYC government job listings that meet their specified criteria for salary, work-type and payment schedule. The project also allows the user to generate data visualizations for the subset of data they have selected.
